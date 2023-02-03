@@ -12,26 +12,29 @@ A new csv file is created named the first three letters of the original file fol
 This program will remove any/all characters that are not used in financial transactions.
 
 Removed Characters:
-!
-@
-#
-^
-&
-*
-()
-[]
-{}
-~
-`
-'
-:
-;
-<>
-/\
-_
-|
-"
-?
+"!"
+"@"
+"#"
+"^"
+"&"
+"*"
+"("
+")"
+"["
+"{"
+"~"
+"`"
+"'"
+":"
+";"
+"<"
+">"
+"/"
+"\"
+"_"
+"|"
+"""
+"?"
 
 Weston Spiro 2023
 
