@@ -36,6 +36,8 @@ Removed Characters:
 """
 "?"
 
-Weston Spiro 2023
+Version 2 incorporates a GUI for simple file cleaning.
+
+OSSSSC 2023
 
 All Rights Reserved
